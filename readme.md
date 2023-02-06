@@ -1,6 +1,6 @@
 **Creating own chatGPT using API**
 
-**veridid_ai**
+**mca_ai**
 
 1. Go to Desktop
 2. Create a folder name open_ai_veridid
@@ -173,7 +173,7 @@ model: "text-davinci-003",
 90.git commit -m "first commit" 
 91. git branch -M main
 
-92. git remote add origin https://github.com/chrizteroo/veridid_ai.git
+92. git remote add origin https://github/coladimeji/mca-chatGPT-openai.git
 93. git push -u origin main
 
 94. Go to GitHub refresh page
